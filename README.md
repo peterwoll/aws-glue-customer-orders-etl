@@ -1,2 +1,2 @@
-# design-an-ETL-pipeline-using-glue
-design an ETL pipeline using glue
+Python, AWS Glue, RDS MySQL, S3, Secrets Manager, Athena
+
